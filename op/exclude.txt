@@ -1,0 +1,4 @@
+*.log
+*.bmp
+*.rar
+*.zip

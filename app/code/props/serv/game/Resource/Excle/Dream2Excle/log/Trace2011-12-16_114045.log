@@ -1,0 +1,13 @@
+[11:40:45] Application Start
+[11:41:14] 转换线程启动
+[11:41:14] 分析Active/Active.xlsx:rewardfood
+[11:41:14] 生成文件RewardFood.ini
+[11:41:14] 分析Active/Active.xlsx:orangeGift
+[11:41:14] 生成文件OrangeGift.ini
+[11:41:14] 分析Active/Active.xlsx:PharmacyItemReward
+[11:41:14] 生成文件PharmacyItemReward.ini
+[11:41:14] 分析Active/Active.xlsx:ActiveConfig
+[11:41:14] 生成文件ActiveConfig.ini
+[11:41:14] 生成成功
+[11:41:14] 关闭Excel读取环境
+[11:41:14] 文件生成结束

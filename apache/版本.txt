@@ -1,0 +1,30 @@
+Microsoft Windows [版本 5.2.3790]
+(C) 版权所有 1985-2003 Microsoft Corp.
+
+D:\New_version_buildClient\VersionTool>svn info D:\LittleNinjas\Foreign_YinNi\bin
+路径: D:\LittleNinjas\Foreign_YinNi\bin
+URL: https://10.10.1.116/svn/Project/MainVersionRelease/Client
+版本库根: https://10.10.1.116/svn/Project
+版本库 UUID: d20fc996-ebfd-1849-88bf-e0c83a088ea6
+版本: 36566
+节点种类: 目录
+调度: 正常
+最后修改的作者: AutoBuildingServer
+最后修改的版本: 36566
+最后修改的时间: 2011-08-31 17:18:02 +0800 (星期三, 2011-08-31)
+
+
+D:\New_version_buildClient\VersionTool>svn info D:\LittleNinjas\Foreign_YinNi\yy
+路径: D:\LittleNinjas\Foreign_YinNi\yy
+URL: https://10.10.1.116/svn/Project/Program/Logic/Client/LittleNinjasProject/bin/Foreign_YinNi
+版本库根: https://10.10.1.116/svn/Project
+版本库 UUID: d20fc996-ebfd-1849-88bf-e0c83a088ea6
+版本: 53851
+节点种类: 目录
+调度: 正常
+最后修改的作者: AutoBuildingServer
+最后修改的版本: 53591
+最后修改的时间: 2012-02-14 15:11:14 +0800 (星期二, 2012-02-14)
+
+
+D:\New_version_buildClient\VersionTool>exit

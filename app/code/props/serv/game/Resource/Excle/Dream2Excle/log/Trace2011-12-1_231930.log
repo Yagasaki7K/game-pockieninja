@@ -1,0 +1,21 @@
+[23:19:30] Application Start
+[23:19:39] 转换线程启动
+[23:19:39] 分析TailBeast/TailBeast.xlsx:TailBeastGroup
+[23:19:39] 生成文件TailBeastGroup.ini
+[23:19:39] 分析TailBeast/TailBeast.xlsx:ShapeList
+[23:19:39] 生成文件ShapeList.ini
+[23:19:39] 分析TailBeast/TailBeast.xlsx:DifficultyLevel
+[23:19:39] 生成文件DifficultyLevel.ini
+[23:19:39] 分析TailBeast/TailBeast.xlsx:TailBeastList
+[23:19:40] 生成文件TailBeastList.ini
+[23:19:40] 分析TailBeast/TailBeast.xlsx:EntryOrder
+[23:19:40] 生成文件EntryOrder.ini
+[23:19:40] 分析TailBeast/TailBeast.xlsx:TopPlayerReward
+[23:19:40] 生成文件TopPlayerReward.ini
+[23:19:40] 分析TailBeast/TailBeast.xlsx:VillageState
+[23:19:40] 生成文件VillageState.ini
+[23:19:40] 分析TailBeast/TailBeast.xlsx:TailBeastCfg
+[23:19:40] 生成文件TailBeastCfg.ini
+[23:19:40] 生成成功
+[23:19:40] 关闭Excel读取环境
+[23:19:40] 文件生成结束

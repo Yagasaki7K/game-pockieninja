@@ -1,0 +1,11 @@
+[16:2:29] Application Start
+[16:4:21] 转换线程启动
+[16:4:22] 分析Drop/Drop.xlsx:DropLib
+[16:4:23] 生成文件DropLib.ini
+[16:4:23] 分析Drop/Drop.xlsx:DropItemLib
+[16:5:47] 生成文件DropItemLib.ini
+[16:5:48] 分析Drop/Drop.xlsx:FixedDropLib
+[16:5:50] 生成文件FixedDropLib.ini
+[16:5:50] 生成成功
+[16:5:50] 关闭Excel读取环境
+[16:5:50] 文件生成结束

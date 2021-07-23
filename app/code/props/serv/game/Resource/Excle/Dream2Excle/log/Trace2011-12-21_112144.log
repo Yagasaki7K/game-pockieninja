@@ -1,0 +1,7 @@
+[11:21:44] Application Start
+[11:22:1] 转换线程启动
+[11:22:1] 分析Commerce/VirtualShop.xlsx:virtualshop
+[11:22:2] 生成文件virtualshop.ini
+[11:22:2] 生成成功
+[11:22:2] 关闭Excel读取环境
+[11:22:2] 文件生成结束

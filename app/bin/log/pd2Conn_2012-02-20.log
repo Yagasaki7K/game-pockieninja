@@ -1,0 +1,124 @@
+2012-02-20 00:02:27 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 00:12:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 00:22:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 00:32:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 00:42:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 00:52:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 67,810,328 milliseconds ago.  The last packet sent successfully to the server was 67,810,328 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 00:52:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:02:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:12:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:22:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:32:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:42:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 01:52:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:02:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:12:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 70,810,375 milliseconds ago.  The last packet sent successfully to the server was 70,810,375 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 02:12:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:22:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:32:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:42:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 71,410,359 milliseconds ago.  The last packet sent successfully to the server was 71,410,359 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 02:42:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 02:52:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:02:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 68,410,328 milliseconds ago.  The last packet sent successfully to the server was 68,410,328 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 03:02:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:12:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:22:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:32:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:42:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 03:52:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 04:02:28 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 19:22:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 67,205,265 milliseconds ago.  The last packet sent successfully to the server was 67,205,265 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 19:22:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 19:32:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 19:42:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 19:52:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:02:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:12:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:22:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:32:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:42:33 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 20:52:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 67,810,234 milliseconds ago.  The last packet sent successfully to the server was 67,810,234 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 20:52:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:02:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:12:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:22:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:32:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:42:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 21:52:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:02:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:12:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 70,810,282 milliseconds ago.  The last packet sent successfully to the server was 70,810,297 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 22:12:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:22:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:32:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:42:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 71,410,265 milliseconds ago.  The last packet sent successfully to the server was 71,410,265 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 22:42:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 22:52:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:02:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsMySql: conn is bad! com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: The last packet successfully received from the server was 68,410,266 milliseconds ago.  The last packet sent successfully to the server was 68,410,266 milliseconds ago. is longer than the server configured value of 'wait_timeout'. You should consider either expiring and/or testing connection validity before use in your application, increasing the server configured values for client timeouts, or using the Connector/J connection property 'autoReconnect=true' to avoid this problem.
+2012-02-20 23:02:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:12:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:22:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:32:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:42:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0
+2012-02-20 23:52:38 <Thread-2> com.d2.util.log.LoggerCommons.println(LoggerCommons.java:169) 
+<INFO> DbOpsOracle: msecs to check a conn: 0

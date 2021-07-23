@@ -1,0 +1,26 @@
+[11:18:59] Application Start
+[11:19:14] 转换线程启动
+[11:19:14] 分析pet/PetExp.xlsx:PetExp
+[11:19:14] 分析pet/PetExp.xlsx:PetMaxLevel
+[11:19:14] 生成文件PetCfg.ini
+[11:19:15] 分析pet/PetItem.xlsx:PetActCapital
+[11:19:15] 生成文件PetActCapital.ini
+[11:19:15] 分析pet/PetItem.xlsx:PetSrcPro
+[11:19:18] 生成文件PetSrcPro.ini
+[11:19:18] 分析pet/PetItem.xlsx:PetGrow
+[11:19:18] 生成文件PetGrow.ini
+[11:19:18] 分析pet/PetItem.xlsx:PetFeedLib
+[11:19:18] 生成文件PetFeedLib.ini
+[11:19:18] 分析pet/PetItem.xlsx:PetSkillCnt
+[11:19:18] 生成文件PetSkillCnt.ini
+[11:19:18] 分析pet/PetItem.xlsx:PetSkillSrc
+[11:19:20] 生成文件PetSkillSrc.ini
+[11:19:20] 分析pet/PetItem.xlsx:PetSkillLib
+[11:19:29] 生成文件PetSkillLib.ini
+[11:19:30] 分析Mail/Mail.xlsx:SystemInitMail
+[11:19:30] errorExcel行数太少Mail/Mail.xlsx:SystemInitMail
+[11:19:30] 分析Mail/Mail.xlsx:MailPropConfig
+[11:19:30] 生成文件MailPropConfig.ini
+[11:19:30] 生成成功
+[11:19:30] 关闭Excel读取环境
+[11:19:30] 文件生成结束

@@ -1,0 +1,23 @@
+[16:34:26] Application Start
+[16:34:53] 转换线程启动
+[16:34:53] 分析Skill/Skill.xlsx:主动技能
+[16:34:57] 分析Skill/Skill.xlsx:被动技能
+[16:34:58] 分析Skill/Skill.xlsx:触发技能
+[16:35:3] 生成文件skill.ini
+[16:35:3] 分析Skill/Skill.xlsx:skilladd
+[16:35:3] 生成文件skilladd.ini
+[16:35:3] 分析Skill/buff.xlsx:FightBuff
+[16:35:4] 生成文件FightBuff.ini
+[16:35:4] 分析Skill/buff.xlsx:buffadd
+[16:35:5] 生成文件buffadd.ini
+[16:35:5] 分析Skill/UpSkillCfg.xlsx:UpSkillCfg
+[16:35:5] 生成文件UpSkilCfg.ini
+[16:35:5] 分析Skill/UpSkillCfg.xlsx:NationUpSkill
+[16:35:5] 生成文件NationUpSkill.ini
+[16:35:5] 分析Skill/buff.xlsx:UnFightBuff
+[16:35:6] 生成文件UnFightBuff.ini
+[16:35:6] 分析Skill/UpSkillCfg.xlsx:UpSkillLimit
+[16:35:7] 生成文件UpSkillLimit.ini
+[16:35:7] 生成成功
+[16:35:7] 关闭Excel读取环境
+[16:35:7] 文件生成结束

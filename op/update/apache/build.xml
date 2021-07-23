@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--定义项目名和默认操作-->
+<project name ="WebGameCoreEngineLibary" default="BuildRelease">
+
+  <!--定义项目名称-->
+  <property name="ProjectName" value="WebGameCoreEngineLibary" />
+  <taskdef resource="flexTasks.tasks" classpath="${FlexTasks.file}" />
+  <!--定义初始变量-->
+  <property file="../../../QC/BuildTool/Client/FlexBuildByAntProperties.properties"  description="properities for builds" />
+  <!--定义完整编译-->
+  <target name="BuildAll">
+    <antcall target="BuildDebug" />
+    <antcall target="BuildRelease" />
+  </target>
+
+  <!--构建-->
+  <!--构建Debug版-->
+  <target name="BuildDebug">
+    <antcall target="CleanDebugDir" />
+    <antcall target="CompileDebug" />
+  </target>
+  <!--构建release版-->
+  <target name="BuildRelease">
+    <antcall target="CleanReleaseDir" />
+    <antcall target="CompileRelease" />
+  </target>
+
+  <!--清理-->
+  <!--定义清理Debug输出文件-->
+  <target name="CleanDebugDir">
+    <delete dir="${OutputDir.Debug}" />
+    <mkdir dir="${OutputDir.Debug}" />
+  </target>
+  <!--定义清理Release输出文件-->
+  <target name="CleanReleaseDir">
+    <delete dir="${OutputDir.Release}" />
+    <mkdir dir="${OutputDir.Release}" />
+  </target>
+
+  <!--编译-->
+  <!--编译Debug版-->
+  <target name="CompileDebug">
+    <property name="Debug" value="true" />
+    <property name="OutputDir" value="${OutputDir.Debug}/${ProjectName}.swc" />
+    <antcall target="Compile" />
+  </target>
+  <!--编译Release版-->
+  <target name="CompileRelease">
+    <property name="Debug" value="false" />
+    <property name="OutputDir" value="${OutputDir.Release}/${ProjectName}.swc" />
+    <antcall target="Compile" />
+  </target>
+  <!--按Debug属性进行编译-->
+  <target name="Compile">
+    <compc debug="${Debug}" output="${OutputDir}">
+      <target-player>10.0</target-player>
+      <source-path path-element="${Src.Dir}" />
+      <include-sources dir="${Src.Dir}" includes="*"/>
+      <source-path path-element="${Src.Dir}" />
+      <compiler.library-path dir="${library.dir}" append="true">
+        <include name="${library.dir}" />
+      </compiler.library-path>
+    </compc>
+  </target>  
+</project>

@@ -1,0 +1,706 @@
+[10:51:9] Application Start
+[10:51:23] 转换线程启动
+[10:51:23] 分析Scene/Scene.xlsx:logicscene
+[10:51:23] 生成文件logicscene.ini
+[10:51:23] 分析Scene/Scene.xlsx:scenequeue
+[10:51:24] 生成文件scenequeue.ini
+[10:51:24] 分析Scene/Scene.xlsx:sceneswitchrule
+[10:51:24] 生成文件sceneswitchrule.ini
+[10:51:24] 分析Scene/Scene.xlsx:nationscene
+[10:51:24] 生成文件nationscene.ini
+[10:51:25] 分析Npc/Npc.xlsx:normalnpc
+[10:51:50] 分析Npc/Npc.xlsx:funnpc
+[10:51:50] 分析Npc/Npc.xlsx:buildnpc
+[10:51:50] 分析Npc/Npc.xlsx:TaskBossNpc
+[10:51:51] 分析Npc/Npc.xlsx:TicketBossNpc
+[10:52:3] 分析Npc/Npc.xlsx:CompeteNpc
+[10:52:8] 分析Npc/Npc.xlsx:SingleGateNpc
+[10:52:11] 分析Npc/Npc.xlsx:PubSceneFightNpc
+[10:52:14] 分析Npc/Npc.xlsx:TailBeastNpc
+[10:52:15] 生成文件npc.ini
+[10:52:16] 分析Npc/RefresNpc.xlsx:staticnpc
+[10:52:17] 生成文件RefresNpc.ini
+[10:52:17] 分析Npc/NpcRecord.xlsx:record
+[10:52:26] 分析Npc/NpcRecord.xlsx:record1
+[10:52:26] 生成文件npcrecordvalue.ini
+[10:52:27] 分析Npc/Npc.xlsx:funnpcrec
+[10:52:27] 分析Npc/Npc.xlsx:normalnpcrec
+[10:52:34] 分析Npc/Npc.xlsx:TicketBossNpcRec
+[10:52:34] 生成文件npcrecord.ini
+[10:52:35] 分析Npc/RefresNpc.xlsx:heartnpc
+[10:52:38] 生成文件RefresHeartNpc.ini
+[10:52:38] 分析Npc/Npc.xlsx:NinjaNpc
+[10:52:39] 生成文件NinjaNpc.ini
+[10:52:39] 分析Role/RoleConfig.xlsx:role
+[10:52:39] 分析Role/RoleConfig.xlsx:levelexp
+[10:52:40] 生成文件LevelExp.ini
+[10:52:40] 分析Role/RoleConfig.xlsx:levelpoint
+[10:52:40] 分析Role/RoleConfig.xlsx:skillpoint
+[10:52:40] 分析Role/RoleConfig.xlsx:pointconfig
+[10:52:40] 生成文件LevelPoint.ini
+[10:52:41] 分析Role/RoleBase.xlsx:InitProperty
+[10:53:22] 生成文件RoleInitProperty.ini
+[10:53:23] 分析Role/RoleAutoAction.xlsx:RoleAutoAction
+[10:53:23] 生成文件RoleAutoAction.ini
+[10:53:24] 分析Role/RoleOutSearch.xlsx:RoleOutSearch
+[10:53:25] 生成文件RoleOutSearch.ini
+[10:53:25] 分析Role/RoleOutSearch.xlsx:BossFactory
+[10:53:25] 生成文件BossFactory.ini
+[10:53:25] 分析Role/RoleOutSearch.xlsx:BabyFactory
+[10:53:25] 生成文件BabyFactory.ini
+[10:53:25] 分析Role/RoleOutSearch.xlsx:ItemFactory
+[10:53:29] 生成文件ItemFactory.ini
+[10:53:29] 分析Role/RoleOutSearch.xlsx:GameFactory
+[10:53:29] 生成文件GameFactory.ini
+[10:53:29] 分析Role/RoleOutSearch.xlsx:OutSearchCommon
+[10:53:29] 生成文件OutSearchCommon.ini
+[10:53:30] 分析Role/RoleAutoAttack.xlsx:AutoAttack
+[10:53:30] 生成文件AutoAttack.ini
+[10:53:30] 分析Role/RoleAutoAttack.xlsx:AutoAttackCommon
+[10:53:30] 生成文件AutoAttackCommon.ini
+[10:53:30] 分析Role/RoleOutSearch.xlsx:KeyFactory
+[10:53:30] 生成文件KeyFactory.ini
+[10:53:31] 分析Role/Chat.xlsx:chat
+[10:53:31] 生成文件Chat.ini
+[10:53:31] 分析Role/Look.xlsx:Show
+[10:53:31] 生成文件Look.ini
+[10:53:31] 分析Role/RoleOutSearch.xlsx:GostFactory
+[10:53:31] 生成文件GostFactory.ini
+[10:53:32] 分析Role/Adult.xlsx:adult
+[10:53:32] 生成文件Adult.ini
+[10:53:32] 分析Role/RoleConfig.xlsx:explevelmul
+[10:53:32] 生成文件explevelmul.ini
+[10:53:32] 分析Role/Gift.xlsx:gift
+[10:53:33] 生成文件gift.ini
+[10:53:33] 分析Role/Gift.xlsx:giftitem
+[10:53:33] 生成文件giftitem.ini
+[10:53:33] 分析Role/Gift.xlsx:card
+[10:53:33] 生成文件card.ini
+[10:53:34] 类 Workbooks 的 Add 方法无效
+[10:53:34] 转换Role/Top.xlsx:top时错误
+[10:53:34] 分析Role/Relive.xlsx:relive
+[10:53:34] 生成文件relive.ini
+[10:53:34] 分析Role/RoleConfig.xlsx:title
+[10:53:35] 生成文件Title.ini
+[10:53:35] 分析Role/RoleEffort.xlsx:Effort
+[10:53:35] 生成文件Effort.ini
+[10:53:36] 分析Role/TurnCard.xlsx:CardsScore
+[10:53:36] 生成文件CardsScore.ini
+[10:53:36] 分析Role/TurnCard.xlsx:CardTypeRate
+[10:53:36] 生成文件CardTypeRate.ini
+[10:53:36] 分析Role/TurnCard.xlsx:TrunCardDopType
+[10:53:36] 生成文件TrunCardDopType.ini
+[10:53:36] 分析Role/TurnCard.xlsx:TurnCardProp
+[10:53:36] 生成文件TurnCardProp.ini
+[10:53:36] 分析Role/Gift.xlsx:giftitemConfig
+[10:53:36] 生成文件giftitemConfig.ini
+[10:53:37] 分析Item/Item.xlsx:toolitem
+[10:53:37] 分析Item/Item.xlsx:taskitem
+[10:53:39] 分析Item/Item.xlsx:jewelitem
+[10:53:41] 分析Item/Item.xlsx:cropitem
+[10:53:42] 分析Pet/PetItem.xlsx:PetItem
+[10:53:53] 分析Pet/PetItem.xlsx:PetReel
+[10:53:56] 分析Equip/Equip.xlsx:equipitem
+[10:54:10] 分析Item/Item.xlsx:pharmacyitem
+[10:54:11] 分析Item/Item.xlsx:debrisitem
+[10:54:26] 分析Equip/Equip.xlsx:avataritem
+[10:55:46] 分析Item/Item.xlsx:skillbook
+[10:55:47] 分析Item/Item.xlsx:composemethoditem
+[10:55:47] 分析Item/Item.xlsx:giftbagitem
+[10:55:48] 分析Item/Item.xlsx:fooditem
+[10:55:54] 分析Equip/Equip.xlsx:magicitem
+[10:56:2] 分析Item/Item.xlsx:freetimesitem
+[10:56:2] 分析Item/Item.xlsx:effortitem
+[10:56:2] 分析Item/Item.xlsx:diceitem
+[10:56:2] 分析Item/Item.xlsx:titleitem
+[10:56:3] 分析Item/Item.xlsx:impressitem
+[10:56:3] 分析Item/Item.xlsx:impressrateitem
+[10:56:3] 分析Item/Item.xlsx:HomeEgg
+[10:56:4] 分析Item/Item.xlsx:carditem
+[10:56:5] 分析Item/Item.xlsx:TailBeastItem
+[10:56:5] 分析Item/Item.xlsx:SustainItem
+[10:56:5] 分析Item/Item.xlsx:blooditem
+[10:56:6] 分析Item/Item.xlsx:bloodsoul
+[10:56:6] 生成文件item.ini
+[10:56:8] 分析Item/ItemRecord.xlsx:record
+[10:56:8] 生成文件itemrecordvalue.ini
+[10:56:8] 分析item/Item.xlsx:ItemCDTimeCfg
+[10:56:8] 生成文件ItemCDTimeCfg.ini
+[10:56:9] 分析Item/Item.xlsx:bloodsoulGather
+[10:56:9] 生成文件bloodsoulGather.ini
+[10:56:9] 分析Item/Item.xlsx:bloodsoulLib
+[10:56:9] 生成文件bloodsoulLib.ini
+[10:56:9] 分析Item/Item.xlsx:bloodsoulPropDefine
+[10:56:9] 生成文件bloodsoulPropDefine.ini
+[10:56:10] 分析Fight/Fight.xlsx:fight
+[10:56:10] 生成文件fight.ini
+[10:56:10] 分析Skill/Skill.xlsx:主动技能
+[10:56:14] 分析Skill/Skill.xlsx:被动技能
+[10:56:14] errorExcel属性列没有Skill/Skill.xlsx:被动技能
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/Skill.xlsx:skilladd时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/buff.xlsx:FightBuff时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/buff.xlsx:buffadd时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/UpSkillCfg.xlsx:UpSkillCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/UpSkillCfg.xlsx:NationUpSkill时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/buff.xlsx:UnFightBuff时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Skill/UpSkillCfg.xlsx:UpSkillLimit时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Interaction.xlsx:interaction时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Train.xlsx:roominfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Train.xlsx:groupinfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Train.xlsx:exp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Train.xlsx:itemlib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/Train.xlsx:config时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Interaction/FindFriend.xlsx:findfriend时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:Task时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:SubTask时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:TaskMonsterDrop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:TaskRewardItems时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:DayTaskPropConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:DayTaskFlushCount时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:ExceptTaskScene时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:DayTaskLevelLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Task/Task.xlsx:TaskBroadCastItem时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:compete时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:rank时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:competenpc时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:prize时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:prizemachine时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/WorldCup.xlsx:worldcup时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:NationMatchOrder时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:NationMatchTime时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:NationMatchPrize时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:ScorePrize时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Compete.xlsx:HonorExp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Server_LeiTai.xlsx:LeiTai_config时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Server_LeiTai.xlsx:LeiTai_Level时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Compete/Server_LeiTai.xlsx:LeiTai_Drop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipaddprop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:identifyproplib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipidentifyprop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:avataraddskill时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:suitprop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipidentifyidlist时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:avataraffectskill时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipcompose时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipcommon时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipcomposerand时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:avatarclothingmap时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipeffectskilllib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:EquipPropDefine时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:equipPropConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:ConsolidateFailRate时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:magicproplib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:avatarcollect时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:orange时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:bule时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:jrea时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:avataradd时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarCollect.xlsx:avataraddday时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:RingExChange时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:ImpressRate时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvaterChange.xlsx:changeequip时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvaterChange.xlsx:advanced时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvaterChange.xlsx:changevalue时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvaterChange.xlsx:changeitem时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarRecast.xlsx:AvatarRecast时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarRecast.xlsx:AvatarRecastBaseLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/AvatarRecast.xlsx:AvatarRecastCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:EquipInscribe时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:SealOdds时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:DragonExchange时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Equip/Equip.xlsx:CantComposerItem时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/NpcBox.xlsx:npcbox时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/NpcBox.xlsx:npcboxitem时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/RefreshItemContainer.xlsx:refreshcontainer时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/RefreshItemContainer.xlsx:refreshitems时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/VirtualShop.xlsx:virtualshop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/MysticShop.xlsx:MysticNpcLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/MysticShop.xlsx:MysticItemLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/MysticShop.xlsx:MysticNpcTime时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/MysticShop.xlsx:MysticNpcLocation时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Commerce/MysticShop.xlsx:MysticBuyCnt时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetExp.xlsx:PetExp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetActCapital时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetSrcPro时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetGrow时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetFeedLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetSkillCnt时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetSkillSrc时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换pet/PetItem.xlsx:PetSkillLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Mail/Mail.xlsx:SystemInitMail时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Mail/Mail.xlsx:MailPropConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/SlaveCfg.xlsx:SlaveConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/GardenCfg.xlsx:GardenConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/DepotCfg.xlsx:ActiveCapital时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/BedroomCfg.xlsx:BedCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/WorkShopCfg.xlsx:UpgradeCapital时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/LaborCfg.xlsx:LaborNpc时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/LaborCfg.xlsx:Level时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/PetCfg.xlsx:Config时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换home/HomeCfg.xlsx:Exp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/GardenCfg.xlsx:ActiveItem时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/SlaveCfg.xlsx:CountCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/SlaveCfg.xlsx:Inter时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:BuildPos时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:BuildInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:AdornPos时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:AdornInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:HomeEgg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:IncubateCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:HomeDepot时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:HomeAllCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:HomeWide时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:WeedInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:OutputInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/TaskBoardCfg.xlsx:TaskBoard时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/TaskBoardCfg.xlsx:BoardLevel时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/TaskBoardCfg.xlsx:TaskBoardProp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/VisitorBoardCfg.xlsx:VisitorBoard时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:FarmGrain时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:WindMillGrain时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Home/Home.xlsx:InitBuild时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Drop/Drop.xlsx:DropLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Drop/Drop.xlsx:DropItemLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Drop/Drop.xlsx:EventDrop时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Drop/Drop.xlsx:FixedDropLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Box/Box.xlsx:ActivePackCost时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Box/Box.xlsx:BoxConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Box/Box.xlsx:ActiveStoreHouseCost时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:TollgateCloneScene时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:TollGate时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:SubTollGate时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:FightMonsterPoint时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:MonsterGroup时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:RankExpReward时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:RankItemReward时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:RankMoneyReward时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:TollGatePropConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:TollGateLobbyScene时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/TGCard.xlsx:TGCardDropId时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/TGCard.xlsx:TGCardDropLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/TGCard.xlsx:TGCardCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:CaptianMul时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/CloneScene.xlsx:ExchangeMagicBox时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Gm/gm.xlsx:gm时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Black/Black.xlsx:black时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/SingleGate.xlsx:Config时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/SingleGate.xlsx:GateInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/SingleGate.xlsx:FloorCfg时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/PubFightMonster.xlsx:PubFightMonsterConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/PubFightMonster.xlsx:PubSceneFightInfo时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/PubFightMonster.xlsx:PubMonsterLibID时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/PubFightMonster.xlsx:PubMonsterDropLib时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Scene/PubFightMonster.xlsx:PubMonsterRewardRule时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/Active.xlsx:rewardfood时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/Active.xlsx:orangeGift时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/Active.xlsx:PharmacyItemReward时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/Active.xlsx:ActiveConfig时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/DayGoal.xlsx:DayGoalScore时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/DayGoal.xlsx:RewardLevel时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/DayGoal.xlsx:RewardRate时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/DayGoal.xlsx:WeekReward时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/DayGoal.xlsx:OfflinePrize时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/TreasureCfg.xlsx:TreasureScore时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/TreasureCfg.xlsx:TreasureType时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/TreasureCfg.xlsx:TreasureProp时错误
+[10:56:14] 被调用的对象已与其客户端断开连接。
+
+[10:56:14] 转换Active/TreasureCfg.xlsx:TreasureRole时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/SustainCfg.xlsx:LastTime时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/SustainCfg.xlsx:SustainCfg时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/SustainCfg.xlsx:NewHandGift时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/MonthSighIn.xlsx:SighInScore时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/MonthSighIn.xlsx:NormalGiftOdd时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/MonthSighIn.xlsx:SpecialGiftOdd时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换Active/MonthSighIn.xlsx:SighInCfg时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:Menu时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:CardType时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:Card时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:PrizeItem时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:CardTab时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换CardHome/card.xlsx:CardConfig时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:TailBeastGroup时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:ShapeList时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:DifficultyLevel时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:TailBeastList时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:EntryOrder时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:TopPlayerReward时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:VillageState时错误
+[10:56:15] 被调用的对象已与其客户端断开连接。
+
+[10:56:15] 转换TailBeast/TailBeast.xlsx:TailBeastCfg时错误
+[10:56:15] 生成成功
+[10:56:15] 关闭Excel读取环境
+[10:56:15] 文件生成结束

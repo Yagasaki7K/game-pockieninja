@@ -1,0 +1,23 @@
+[18:2:12] Application Start
+[18:2:45] 转换线程启动
+[18:2:45] 分析Role/Gift.xlsx:card
+[18:2:46] 生成文件card.ini
+[18:2:46] 分析Role/TurnCard.xlsx:CardsScore
+[18:2:46] 生成文件CardsScore.ini
+[18:2:46] 分析Role/TurnCard.xlsx:CardTypeRate
+[18:2:46] 生成文件CardTypeRate.ini
+[18:2:47] 分析CardHome/card.xlsx:Menu
+[18:2:47] 生成文件cardMenu.ini
+[18:2:47] 分析CardHome/card.xlsx:CardType
+[18:2:47] 生成文件cardType.ini
+[18:2:47] 分析CardHome/card.xlsx:Card
+[18:2:47] 生成文件cardConstants.ini
+[18:2:47] 分析CardHome/card.xlsx:PrizeItem
+[18:2:48] 生成文件prizeItem.ini
+[18:2:48] 分析CardHome/card.xlsx:CardTab
+[18:2:48] 生成文件cardTab.ini
+[18:2:48] 分析CardHome/card.xlsx:CardConfig
+[18:2:48] 生成文件cardConfig.ini
+[18:2:48] 生成成功
+[18:2:48] 关闭Excel读取环境
+[18:2:48] 文件生成结束

@@ -1,0 +1,22 @@
+[15:39:18] Application Start
+[15:39:26] 转换线程启动
+[15:39:27] 分析Item/Item.xlsx:toolitem
+[15:39:27] 分析Item/Item.xlsx:taskitem
+[15:39:27] 分析Item/Item.xlsx:jewelitem
+[15:39:29] 分析Item/Item.xlsx:cropitem
+[15:39:29] 分析Pet/PetItem.xlsx:PetItem
+[15:39:29] 分析Pet/PetItem.xlsx:PetReel
+[15:39:30] 分析Equip/Equip.xlsx:equipitem
+[15:39:36] 分析Item/Item.xlsx:pharmacyitem
+[15:39:37] 分析Item/Item.xlsx:debrisitem
+[15:39:41] 分析Equip/Equip.xlsx:avataritem
+[15:40:5] 分析Item/Item.xlsx:skillbook
+[15:40:6] 分析Item/Item.xlsx:composemethoditem
+[15:40:6] 分析Item/Item.xlsx:giftbagitem
+[15:40:6] 分析Item/Item.xlsx:fooditem
+[15:40:7] 分析Equip/Equip.xlsx:magicitem
+[15:40:9] 分析Item/Item.xlsx:freetimesitem
+[15:40:9] A2 单元格必须是ID
+[15:40:9] 生成成功
+[15:40:9] 关闭Excel读取环境
+[15:40:9] 文件生成结束

@@ -1,0 +1,9 @@
+[15:18:51] Application Start
+[15:19:10] 转换线程启动
+[15:19:11] 分析Active/SustainCfg.xlsx:LastTime
+[15:19:11] 生成文件LastTime.ini
+[15:19:11] 分析Active/SustainCfg.xlsx:SustainCfg
+[15:19:11] 生成文件SustainCfg.ini
+[15:19:11] 生成成功
+[15:19:11] 关闭Excel读取环境
+[15:19:11] 文件生成结束

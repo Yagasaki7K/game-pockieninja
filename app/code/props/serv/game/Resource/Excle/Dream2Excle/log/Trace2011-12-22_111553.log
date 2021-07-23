@@ -1,0 +1,17 @@
+[11:15:53] Application Start
+[11:16:8] 转换线程启动
+[11:16:8] 分析CardHome/card.xlsx:Menu
+[11:16:8] 生成文件cardMenu.ini
+[11:16:8] 分析CardHome/card.xlsx:CardType
+[11:16:8] 生成文件cardType.ini
+[11:16:8] 分析CardHome/card.xlsx:Card
+[11:16:8] 生成文件cardConstants.ini
+[11:16:8] 分析CardHome/card.xlsx:PrizeItem
+[11:16:8] 生成文件prizeItem.ini
+[11:16:8] 分析CardHome/card.xlsx:CardTab
+[11:16:8] 生成文件cardTab.ini
+[11:16:8] 分析CardHome/card.xlsx:CardConfig
+[11:16:8] 生成文件cardConfig.ini
+[11:16:8] 生成成功
+[11:16:8] 关闭Excel读取环境
+[11:16:8] 文件生成结束

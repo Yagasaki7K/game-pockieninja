@@ -1,0 +1,17 @@
+
+192.168.17.53,interior.bat,D:/app/bin,interior,0
+192.168.17.53,gamedb.bat,D:/app/bin,gamedb,0
+
+192.168.17.53,data01.bat,D:/app/bin,pd1,0
+192.168.17.53,data02.bat,D:/app/bin,pd2,0
+192.168.17.53,data03.bat,D:/app/bin,pd3,0
+
+192.168.17.53,policy-server.bat,D:/app/PolicyServer,policy,40
+
+192.168.17.53,game03.bat,D:/app/bin,game3,60
+192.168.17.53,game02.bat,D:/app/bin,game2,60
+192.168.17.53,game01.bat,D:/app/bin,game1,60
+
+192.168.17.53,proxy02.bat,D:/app/bin,dmenter2,0
+192.168.17.53,proxy03.bat,D:/app/bin,dmenter3,10
+192.168.17.53,proxy01.bat,D:/app/bin,dmenter1,10

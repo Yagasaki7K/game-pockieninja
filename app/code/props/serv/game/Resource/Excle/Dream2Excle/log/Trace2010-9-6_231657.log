@@ -1,0 +1,9 @@
+[23:16:57] Application Start
+[23:17:10] 转换线程启动
+[23:17:10] 分析Role/Gift.xlsx:gift
+[23:17:10] 生成文件gift.ini
+[23:17:10] 分析Role/Gift.xlsx:giftitem
+[23:17:10] 生成文件giftitem.ini
+[23:17:10] 生成成功
+[23:17:10] 关闭Excel读取环境
+[23:17:10] 文件生成结束

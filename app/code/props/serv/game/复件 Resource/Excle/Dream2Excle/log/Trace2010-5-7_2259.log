@@ -1,0 +1,8 @@
+[22:5:9] Application Start
+[22:5:11] 转换线程启动
+[22:5:12] 分析Drop/Drop.xlsx:MonsterDrop
+[22:5:12] 生成文件MonsterDrop.ini
+[22:5:12] 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\Drop\MonsterDrop.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
+[22:5:12] lua file: 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\Drop\MonsterDrop.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
+[22:5:12] 关闭Excel读取环境
+[22:5:12] 文件生成结束
