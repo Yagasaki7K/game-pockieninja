@@ -1,0 +1,3 @@
+game01+.log
+game02+.log
+game03+.log

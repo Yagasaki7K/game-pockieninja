@@ -1,0 +1,25 @@
+* { background-repeat: no-repeat; }
+
+body { margin: 0px; background-color: #000000; height: 100%; }
+
+#flashWrapper { height: 100%; }
+
+#dreamFlash { position: absolute; width: 100%; }
+
+#dreamFlash.wrapper { height: 100%; }
+
+#sizeTester { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+#tishiWrapper { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: none; font-family: Tahoma; font-size: 12px; line-height: 20px; color: #333333; }
+
+#tishi { width: 367px; height: 205px; position: relative; left: 50%; margin-left: -490px; padding: 296px 0 0 613px;}
+
+#tishi ul {margin: 0; padding: 0; list-style-type: none; padding-top: 3px;}
+
+#tishi ul li {background-image: url(dot.gif); background-repeat: no-repeat; background-position: left 7px; padding-left: 13px;}
+
+#tishi ul li a {color: #C7000B; text-decoration: none;}
+
+#tishiWrapper .copyright { padding-top: 20px; height: 91px; color: #444141; text-align: center; }
+
+#tishiWrapper .copyright a { color: #444141; text-decoration: none; }
