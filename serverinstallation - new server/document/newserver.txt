@@ -1,0 +1,19 @@
+buka dokumen ninjakita server setting up SOP
+
+ikutin semua perintah yang ada disitu
+
+masukkan file js ke GM server di folder C:\www\game\xrconfig
+
+update v3
+backup file di op\update\
+ganti nama folder apache menjadi apache1(backup)
+ganti nama folder app menjadi app1(backup)
+masukin semua file yang bakal di update ke op\update
+
+apabila ada ganti versi .. lakukan update versi terlebih dahulu..
+masukkan semua file untuk update versi
+
+apabila ada update patch saja.. lakukan update patch ke folder op\update
+
+setelah itu jalankan rsync-client.bat dan rscync-game.bat
+

@@ -1,0 +1,24 @@
+generate ssh key
+
+change D:\op\update\apache\sever <- change the IP
+
+
+
+
+D:\op\game.txt
+
+change all ip into local/internal IP
+
+D:\op\start.txt
+
+change all ip into local / internal IP
+
+
+D:\op\update\app\bin\config
+game01.properties change (all ip change into internal)
+
+
+
+
+
+

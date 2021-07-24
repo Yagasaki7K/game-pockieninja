@@ -1,0 +1,30 @@
+Create server 3
+1. copy from other server folder op\update\apache and op\update\bin
+2. modified D:\op\update\apache\sever -> change the IP
+3. modified all ip in txt file folder D:\op\update\app\bin\config
+
+game01.properties
+serviceid = 1 --> serviceid = 3
+
+gamedb.properties
+servergroup=1 --> servergroup=3
+gameservercount=3 --> gameservercount=1
+
+interior.properties
+serviceid = 1 --> serviceid = 3
+gameservercount=3 --> gameservercount=1
+
+pubdata01.properties\pubdata02.properties\pubdata03.properties
+gameservercount=3 --> gameservercount=1
+
+
+4. modified file 
+data01.bat\data02.bat\data03.bat\game01.bat\gamedb.bat\interior.bat 
+
+from C:\Java\jdk1.6.0_20\bin -->changed to C:\"Program Files"\Java\jdk1.6.0_20\bin
+
+
+5.set password of db 
+gamedb.properties/pubdata01.properties/pubdata02.properties/pubdata03.properties
+
+
