@@ -1,0 +1,4 @@
+1 firstly , fill in your configs in this excel file
+2. open the tools
+3.  set a URL to place the new file 
+4. set the other configs->click ok
