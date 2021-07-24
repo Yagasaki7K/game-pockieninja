@@ -1,0 +1,8 @@
+[20:42:59] Application Start
+[20:43:7] 转换线程启动
+[20:43:8] 分析Task/Task.xlsx:Task
+[20:43:12] 生成文件Task.ini
+[20:43:12] 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\task\Task.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
+[20:43:12] lua file: 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\task\Task.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
+[20:43:12] 关闭Excel读取环境
+[20:43:12] 文件生成结束
