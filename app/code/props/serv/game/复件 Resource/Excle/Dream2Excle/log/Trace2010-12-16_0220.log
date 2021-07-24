@@ -1,9 +1,0 @@
-[0:2:20] Application Start
-[0:2:26] 转换线程启动
-[0:2:27] 分析Npc/Npc.xlsx:funnpcrec
-[0:2:27] 分析Npc/Npc.xlsx:normalnpcrec
-[0:2:30] 分析Npc/Npc.xlsx:TicketBossNpcRec
-[0:2:30] 生成文件npcrecord.ini
-[0:2:31] 生成成功
-[0:2:31] 关闭Excel读取环境
-[0:2:31] 文件生成结束

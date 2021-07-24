@@ -1,8 +1,0 @@
-[15:30:37] Application Start
-[15:30:43] 转换线程启动
-[15:30:43] 分析Skill/buff.xlsx:buff
-[15:30:43] 生成文件buff.ini
-[15:30:43] 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\skill\buff.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
-[15:30:43] lua file: 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\skill\buff.ini失败 错误码 5 文件拒绝访问 可能因为是只读文件
-[15:30:44] 关闭Excel读取环境
-[15:30:44] 文件生成结束

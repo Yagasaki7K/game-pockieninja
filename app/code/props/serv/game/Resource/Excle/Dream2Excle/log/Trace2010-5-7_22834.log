@@ -1,7 +1,0 @@
-[22:8:34] Application Start
-[22:8:38] 转换线程启动
-[22:8:38] 分析Mail/Mail.xlsx:SystemInitMail
-[22:8:39] 生成文件SystemInitMail.ini
-[22:8:39] 生成成功
-[22:8:39] 关闭Excel读取环境
-[22:8:39] 文件生成结束

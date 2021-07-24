@@ -1,8 +1,0 @@
-[22:4:48] Application Start
-[22:4:52] 转换线程启动
-[22:4:52] 分析Mail/Mail.xlsx:SystemInitMail
-[22:4:52] 生成文件SystemInitMail.ini
-[22:4:52] 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\Mail\SystemInitMail.ini失败 错误码 32
-[22:4:52] lua file: 打开文件D:\work\p4\guoyuan-tech\code\platform\java\props\serv\game\Resource\Mail\SystemInitMail.ini失败 错误码 32
-[22:4:52] 关闭Excel读取环境
-[22:4:52] 文件生成结束

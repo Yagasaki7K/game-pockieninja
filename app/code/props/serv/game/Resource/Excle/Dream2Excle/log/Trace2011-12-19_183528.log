@@ -1,9 +1,0 @@
-[18:35:28] Application Start
-[18:36:11] 转换线程启动
-[18:36:11] 分析Npc/RefresNpc.xlsx:staticnpc
-[18:36:12] 生成文件RefresNpc.ini
-[18:36:12] 分析Npc/RefresNpc.xlsx:heartnpc
-[18:36:15] 生成文件RefresHeartNpc.ini
-[18:36:15] 生成成功
-[18:36:15] 关闭Excel读取环境
-[18:36:15] 文件生成结束

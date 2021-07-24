@@ -1,1 +1,0 @@
-java -jar PolicyServer.jar $1

@@ -1,7 +1,0 @@
-[19:51:17] Application Start
-[19:51:25] 转换线程启动
-[19:51:26] 分析CardHome/card.xlsx:CardConfig
-[19:51:26] 生成文件cardConfig.ini
-[19:51:26] 生成成功
-[19:51:26] 关闭Excel读取环境
-[19:51:26] 文件生成结束

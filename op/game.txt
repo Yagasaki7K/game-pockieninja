@@ -1,2 +1,0 @@
-;apache/game01&02&03/dmenter01&02&03/pubdata01/policy
-192.168.17.53,game1,12,0,10,4

@@ -1,7 +1,0 @@
-[15:17:15] Application Start
-[15:18:59] 转换线程启动
-[15:18:59] 类 Workbooks 的 Add 方法无效
-[15:18:59] 转换Item/ItemRecord.xlsx:record时错误
-[15:18:59] 生成成功
-[15:18:59] 关闭Excel读取环境
-[15:18:59] 文件生成结束

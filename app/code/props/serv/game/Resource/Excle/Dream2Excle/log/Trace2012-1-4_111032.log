@@ -1,7 +1,0 @@
-[11:10:32] Application Start
-[11:10:47] 转换线程启动
-[11:10:47] 类 Workbooks 的 Add 方法无效
-[11:10:47] 转换Active/SustainCfg.xlsx:LastTime时错误
-[11:10:47] 生成成功
-[11:10:47] 关闭Excel读取环境
-[11:10:47] 文件生成结束

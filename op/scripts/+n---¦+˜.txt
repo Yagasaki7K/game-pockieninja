@@ -1,1 +1,0 @@
-把scripts.rar解压覆盖至d:\op\scripts目录下的同名文件。（所有服务器上都有覆盖）

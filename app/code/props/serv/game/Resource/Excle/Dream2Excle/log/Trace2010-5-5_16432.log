@@ -1,7 +1,0 @@
-[16:4:32] Application Start
-[16:4:40] 转换线程启动
-[16:4:40] 分析Role/RoleBase.xlsx:InitProperty
-[16:4:40] 生成文件RoleInitProperty.ini
-[16:4:40] 生成成功
-[16:4:40] 关闭Excel读取环境
-[16:4:40] 文件生成结束

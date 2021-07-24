@@ -1,8 +1,0 @@
-[18:5:52] Application Start
-[18:6:3] 转换线程启动
-[18:6:3] 分析Active/SustainCfg.xlsx:SustainCfg
-[18:6:3] 生成文件SustainCfg.ini
-[18:6:3] 生成成功
-[18:6:3] 关闭Excel读取环境
-[18:6:3] 文件生成结束
-[18:6:7] 转换线程启动

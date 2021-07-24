@@ -1,7 +1,0 @@
-[17:18:51] Application Start
-[17:19:7] 转换线程启动
-[17:19:7] 分析Active/Active.xlsx:ActiveConfig
-[17:19:7] sheetActiveConfig包含重复IDStrangeStoneOnLineDays
-[17:19:7] 生成成功
-[17:19:7] 关闭Excel读取环境
-[17:19:7] 文件生成结束
