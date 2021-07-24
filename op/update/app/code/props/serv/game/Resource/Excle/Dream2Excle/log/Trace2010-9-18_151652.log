@@ -1,0 +1,19 @@
+[15:16:52] Application Start
+[15:17:8] 转换线程启动
+[15:17:8] 分析Npc/Npc.xlsx:normalnpc
+[15:17:18] 分析Npc/Npc.xlsx:funnpc
+[15:17:19] 分析Npc/Npc.xlsx:buildnpc
+[15:17:19] 分析Npc/Npc.xlsx:TaskBossNpc
+[15:17:20] 分析Npc/Npc.xlsx:TicketBossNpc
+[15:17:33] 分析Npc/Npc.xlsx:CompeteNpc
+[15:17:42] 分析Npc/Npc.xlsx:SingleGateNpc
+[15:17:46] 生成文件npc.ini
+[15:17:49] 分析Npc/NpcRecord.xlsx:record
+[15:17:59] 分析Npc/NpcRecord.xlsx:record1
+[15:17:59] 生成文件npcrecordvalue.ini
+[15:17:59] 分析Npc/Npc.xlsx:funnpcrec
+[15:18:0] 分析Npc/Npc.xlsx:normalnpcrec
+[15:18:1] 生成文件npcrecord.ini
+[15:18:1] 生成成功
+[15:18:1] 关闭Excel读取环境
+[15:18:1] 文件生成结束

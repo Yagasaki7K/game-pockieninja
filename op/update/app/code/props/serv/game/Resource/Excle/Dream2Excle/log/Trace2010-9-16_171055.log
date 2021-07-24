@@ -1,0 +1,23 @@
+[17:10:55] Application Start
+[17:12:21] 转换线程启动
+[17:12:22] 分析Compete/Compete.xlsx:compete
+[17:12:22] 生成文件compete.ini
+[17:12:22] 分析Compete/Compete.xlsx:rank
+[17:12:22] 生成文件competerank.ini
+[17:12:22] 分析Compete/Compete.xlsx:competenpc
+[17:12:22] 生成文件competenpc.ini
+[17:12:22] 分析Compete/Compete.xlsx:prize
+[17:12:23] 生成文件competeprize.ini
+[17:12:23] 分析Compete/Compete.xlsx:prizemachine
+[17:12:23] 生成文件prizemachine.ini
+[17:12:24] 分析Compete/WorldCup.xlsx:worldcup
+[17:12:24] 生成文件worldcup.ini
+[17:12:24] 分析Compete/Compete.xlsx:NationMatchOrder
+[17:12:25] 生成文件NationMatchOrder.ini
+[17:12:25] 分析Compete/Compete.xlsx:NationMatchTime
+[17:12:25] 生成文件NationMatchTime.ini
+[17:12:25] 分析Compete/Compete.xlsx:NationMatchPrize
+[17:12:25] 生成文件NationMatchPrize.ini
+[17:12:25] 生成成功
+[17:12:25] 关闭Excel读取环境
+[17:12:25] 文件生成结束

@@ -1,0 +1,8 @@
+[17:23:57] Application Start
+[17:24:10] 转换线程启动
+[17:24:10] 分析Npc/NpcRecord.xlsx:record
+[17:24:10] 分析Npc/NpcRecord.xlsx:record1
+[17:24:10] 生成文件npcrecordvalue.ini
+[17:24:10] 生成成功
+[17:24:10] 关闭Excel读取环境
+[17:24:10] 文件生成结束

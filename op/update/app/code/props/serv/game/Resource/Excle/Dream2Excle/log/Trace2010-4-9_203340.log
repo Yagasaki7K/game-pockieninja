@@ -1,0 +1,7 @@
+[20:33:40] Application Start
+[20:33:44] 转换线程启动
+[20:33:44] 分析Compete/Compete.xlsx:competenpc
+[20:33:44] errorExcel列数不对Compete/Compete.xlsx:competenpc
+[20:33:44] 生成成功
+[20:33:44] 关闭Excel读取环境
+[20:33:44] 文件生成结束
