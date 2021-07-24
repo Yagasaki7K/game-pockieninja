@@ -1,0 +1,60 @@
+
+Selalu Matikan proses game, d:\op\Stop-srv-Normal.bat sebelum melakukan update biar lebih aman, walau untuk update langkah yg 1 proses tidak perlu down kecuali ada kasus tertentu untuk update langkah 1, lalu ikuti langkah2 yg ada dibawah
+
+
+Langkah untuk mengupdate server ninja kita ada 3 macam.
+
+
+Langkah yang 1 ( Hanya update client saja )
+
+I. Jika menerima Apache files ( game client files)
+
+1st step: Backup folder apache yg ada di D:\op\update kedalam folder d:~Backup dan dibackup sesuai dengan contoh yang sudah ada didalam folder tersebut.
+
+2nd step: Rubah nama folder apache menjadi apache1 yang ada didalam folder D:\op\update\, lalu Copy folder apache yang baru kita dapat dan sudah diektrak.
+
+3rd step: Copy file "sever" yang ada didalam folder apache1 kedalam folder apache
+
+4th step: Run Rsync-client.bat, D:\op
+
+5th step: Jalankan proses game, D:\op\Start-srv.bat untuk dilakukan test
+
+
+
+II. Jika menerima file app files (server client files)
+
+1st step: Backup folder app yg ada di D:\op\update kedalam folder d:~Backup
+
+2nd step: Rubah nama folder app menjadi app1 yang ada didalam folder D:\op\update\, lalu Copy folder app yang baru kita dapat dan sudah diektrak.
+
+3rd step: Run Rsync-game.bat, D:\op
+
+4th step: Jalankan proses untuk dilakukan test
+
+
+
+III, Jika menerima file apache dan app ( client file dan server file )
+
+1st step: Backup folder apache dan app yang ada di dalam folder D:\op\update kedalam folder d:~Backup
+
+2nd step: Rubah nama folder apache dan app menjadi apache1 dan app1 yang ada didalam folder D:\op\update\, lalu Copy folder apache dan app yang baru kita dapat dan sudah diektrak.
+
+3rd step: Copy file "sever" yang ada didalam folder apache1 kedalam folder apache
+
+4th step: Run Rsync-srv.bat, D:\op
+
+5th step: Jalankan proses game, D:\op\Start-srv.bat untuk dilakukan test
+
+
+!!! Untuk folder apache1 dan app1 bisa dihapus jika kita ingin melakukan update, supaya bisa merename file yg lama !!!
+
+
+
+NB : Tolong diperhatikan proses javaw.exe di proces taskbar apakah berjalan atau tidak ketika sudah melakukan restart mesin. Jika tidak jalan, bisa jalankan program D:\uos\service\run.bat, tetapi semua proses aplikasi game harus tidak jalan semuanya atau prosesnya mati. 
+
+
+Untuk Maintenance mingguan bisa ikutin langkah2 dibawah ini
+
+1. Matikan Proses server D:\op\Stop-srv-Normal.bat
+2. Restart Mesin
+3. Jalankan proses server D:\op\Start-srv.bat

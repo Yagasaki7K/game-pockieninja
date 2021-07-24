@@ -1,0 +1,12 @@
+[19:19:21] Application Start
+[19:19:33] 转换线程启动
+[19:19:33] 分析Drop/Drop.xlsx:DropLib
+[19:19:35] 生成文件DropLib.ini
+[19:19:35] 分析Drop/Drop.xlsx:DropItemLib
+[19:20:58] 生成文件DropItemLib.ini
+[19:20:59] 转换Drop/Drop.xlsx:EventDrop时错误
+[19:20:59] 分析Drop/Drop.xlsx:FixedDropLib
+[19:21:1] 生成文件FixedDropLib.ini
+[19:21:1] 生成成功
+[19:21:1] 关闭Excel读取环境
+[19:21:1] 文件生成结束

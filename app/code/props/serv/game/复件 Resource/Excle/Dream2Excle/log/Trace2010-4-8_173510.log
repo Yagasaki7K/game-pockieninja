@@ -1,0 +1,9 @@
+[17:35:10] Application Start
+[17:35:13] 转换线程启动
+[17:35:14] 分析Compete/Compete.xlsx:compete
+[17:35:14] 生成文件compete.ini
+[17:35:14] 分析Compete/Compete.xlsx:rank
+[17:35:14] 生成文件competerank.ini
+[17:35:14] 生成成功
+[17:35:14] 关闭Excel读取环境
+[17:35:14] 文件生成结束

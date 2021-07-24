@@ -1,0 +1,29 @@
+Berikut IP dan cara untuk melakukannya
+
+Proxy Storage = 192.168.17.20
+Proxy Cache = 192.168.17.21 + 192.168.17.22 + 192.168.17.23
+
+- Stop nginx di server proxy (Proxy Storage dan Proxy Cache)
+     *Urutan mematikan - Proxy Storage dahulu baru Proxy Cache
+
+     service nginx stop
+
+- Clear Proxy Storage
+
+     rm -rf /var/www/s1.ninjakita.com/cache/*
+     rm -rf /var/www/s1.ninjakita.com/js/*
+     rm -rf /var/www/s1.ninjakita.com/root/*
+
+     rm -rf /var/www/s2.ninjakita.com/cache/*
+     rm -rf /var/www/s2.ninjakita.com/js/*
+     rm -rf /var/www/s2.ninjakita.com/root/*
+
+- Clear Proxy Cache
+
+     rm -rf /var/www/s1.ninjakita.com/*
+     rm -rf /var/www/s2.ninjakita.com/*
+
+- Start nginx di server proxy (Proxy Storage dan Proxy Cache)
+     * Urutan menjalankan - Proxy Storage dahulu baru Proxy Cache
+
+     service nginx start

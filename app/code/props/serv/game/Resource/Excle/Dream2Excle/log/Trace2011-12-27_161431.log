@@ -1,0 +1,7 @@
+[16:14:31] Application Start
+[16:14:54] 转换线程启动
+[16:14:54] 类 Workbooks 的 Add 方法无效
+[16:14:54] 转换Active/Active.xlsx:ActiveConfig时错误
+[16:14:54] 生成成功
+[16:14:54] 关闭Excel读取环境
+[16:14:54] 文件生成结束

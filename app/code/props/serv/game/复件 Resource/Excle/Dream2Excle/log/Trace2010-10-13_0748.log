@@ -1,0 +1,7 @@
+[0:7:48] Application Start
+[0:8:2] 转换线程启动
+[0:8:2] 分析Compete/Compete.xlsx:rank
+[0:8:2] 生成文件competerank.ini
+[0:8:2] 生成成功
+[0:8:2] 关闭Excel读取环境
+[0:8:2] 文件生成结束

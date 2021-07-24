@@ -1,0 +1,7 @@
+[1:1:46] Application Start
+[1:1:58] 转换线程启动
+[1:2:1] 分析Interaction/FindFriend.xlsx:findfriend
+[1:2:1] 生成文件findfriend.ini
+[1:2:1] 生成成功
+[1:2:2] 关闭Excel读取环境
+[1:2:2] 文件生成结束

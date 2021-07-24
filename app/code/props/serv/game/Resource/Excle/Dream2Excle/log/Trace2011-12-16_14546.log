@@ -1,0 +1,7 @@
+[14:5:46] Application Start
+[14:6:3] 转换线程启动
+[14:6:3] 分析CardHome/card.xlsx:CardConfig
+[14:6:3] 生成文件cardConfig.ini
+[14:6:3] 生成成功
+[14:6:3] 关闭Excel读取环境
+[14:6:3] 文件生成结束

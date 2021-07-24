@@ -1,0 +1,59 @@
+Hal yang harus dilakukan bila ninjakita bermasalah:
+
+cek login ke website ninjakita.com, mulai dari login sampe loading!
+
+lakukan cek port 7001, 7002, 7003
+
+telnet 192.168.17.60 7001
+telnet 192.168.17.60 7002
+telnet 192.168.17.60 7003
+
+kalo bisa di telnet muncul "nEE"
+kalo ga bisa di telnet berarti error, lakukan restart port nya menggunakan perintah:
+
+D:\op\scripts
+restart7001.bat - untuk port 7001
+restart7002.bat - untuk port 7002
+restart7003.bat - untuk port 7003
+
+kalo masih gabisa juga coba matikan semua aplikasi:
+
+1. put new lic files in d:\op\update\app\bin
+2. shutdown DmEnter process manually
+3. then run rsync-game.bat
+4. the lic files in d:\app\bin will be updated
+
+
+usahakan JANGAN melakukan RESTART MESIN !!! apabila di restart maka diharuskan mengganti lic yang baru
+
+kalo ada kirimin/request file lic baru
+
+taro semua file lic disini:
+D:\op\update\app\bin
+
+lalu jalankan:
+D:\op\
+Rsync-game.bat
+
+setelah itu jalankan:
+proxy01.bat
+proxy02.bat
+proxy03.bat
+
+lihat di :
+D:\app\bin
+apakah file lic nya sudah berubah tanggalnya menjadi tanggal yang paling baru(tanggal update)
+
+coba cek kembali apakah port nya sudah bisa terhubung / tidak.
+
+coba login kembali ke web lagi apakah bisa / ngga
+
+
+
+masalah INTERIOR (stuck di layar hijau)
+D:\op\scripts\restart8999.bat
+
+atau cek uos (di taskmanager ada proses javaw.exe sebanyak 2 buah)
+kalo tidak ada ... jalankan kembali proses nya di d:/uos/service/run.bat
+
+

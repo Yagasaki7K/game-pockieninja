@@ -1,0 +1,38 @@
+Peter says:
+ 1. please make sure all services are done before you restart service all
+Oik Oiks says:
+ you mean all service shutdown first?
+Peter says:
+ right
+ 2. if you are suspicious of lic error
+ just go to d:/op/script/
+ and click restart7001.bat and restart7002, restart7003.bat
+ to check if there is lic error
+Oik Oiks says:
+ i already do that when i get first lic... there is warning "cannot find lic" like that
+ its mean lic is error?
+
+Peter says:
+ only two things what I mentioned in the group talking window
+Diky says:
+ haha .. yes iknow that step, but oik ask me .. he run the proses but still not working 
+ whats wrong ?
+Peter says:
+ not sure . if he did not stop all the service , just click stopsrv-normal.bat again
+ if there are only interior service , policy service are on, you could just kill them all
+ how to know which services are on?M
+Diky says:
+ how to kill them all with stopsrv.bat
+Peter says:
+ in command mod , tasklist|grep java   to check the process ID
+ and then in command mod , netstat -aont|grep "process ID"
+ if the ports are 8999 or 843 that means the according services are interior and policyM
+ please do not click stopsrv.bat first
+ because if the game or gamedb service are running when you run stopsrv.bat, that will make rollback
+Diky says:
+ i see 
+ must stopsrv-normal.bat right 
+ if not worked or have stuck just see at tasklist|grep java   to check the process ID
+
+Peter says:
+ yeah, it's most safe
