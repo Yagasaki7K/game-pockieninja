@@ -1,0 +1,33 @@
+110720 22:42:33 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+110720 22:42:33  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+110720 22:42:33  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 100 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Progress in MB: 100
+110720 22:42:34  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 100 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Progress in MB: 100
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+110720 22:42:35  InnoDB: Started; log sequence number 0 0
+110720 22:42:35 [Note] Event Scheduler: Loaded 0 events
+110720 22:42:35 [Note] D:\MySQL Server 5.1\bin\mysqld: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+110721 10:16:48 [Note] D:\MySQL Server 5.1\bin\mysqld: Normal shutdown
+
+110721 10:16:48 [Note] Event Scheduler: Purging the queue. 0 events
+110721 10:16:48  InnoDB: Starting shutdown...
+110721 10:16:51  InnoDB: Shutdown completed; log sequence number 0 44233
+110721 10:16:51 [Note] D:\MySQL Server 5.1\bin\mysqld: Shutdown complete
+
+110721 10:19:17 [Note] Plugin 'FEDERATED' is disabled.
+110721 10:19:23  InnoDB: Started; log sequence number 0 44233
+110721 10:19:26 [Note] Event Scheduler: Loaded 0 events
+110721 10:19:26 [Note] D:\MySQL Server 5.1\bin\mysqld: ready for connections.
+Version: '5.1.48-community'  socket: ''  port: 3306  MySQL Community Server (GPL)

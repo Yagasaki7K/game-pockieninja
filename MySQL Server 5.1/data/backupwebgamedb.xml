@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<job version="4.2">
+<exportjob>
+<source>
+<host>localhost</host>
+<user>root</user>
+<pwd>654321</pwd>
+<port>3306</port>
+<ssl>0</ssl>
+<sslauth>0</sslauth>
+<clientkey></clientkey>
+<clientcert></clientcert>
+<cacert></cacert>
+<cipher></cipher>
+<charset></charset>
+<database>webgamedb</database>
+</source>
+<export>
+<tables all="yes" />
+<script fileordir="file" timestampdir="" timestamp="yes">D:\backupdb\webgamedb.sql</script>
+</export>
+<options>
+<createdb>yes</createdb>
+<usedb>yes</usedb>
+<droptable>no</droptable>
+<bulkinsert>yes</bulkinsert>
+<completeinsert>no</completeinsert>
+<insertdelayed>no</insertdelayed>
+<createview>yes</createview>
+<createprocedure>yes</createprocedure>
+<createfunction>yes</createfunction>
+<createtrigger>yes</createtrigger>
+<dropobjects>yes</dropobjects>
+<dropview>no</dropview>
+<dropprocedure>no</dropprocedure>
+<dropfunction>no</dropfunction>
+<droptrigger>no</droptrigger>
+<flushlogs>no</flushlogs>
+<flushmaster>no</flushmaster>
+<flushslave>no</flushslave>
+<locktableread>no</locktableread>
+<disablekeys>no</disablekeys>
+<locktablewrite>no</locktablewrite>
+<fkchecks>yes</fkchecks>
+<autocommit>no</autocommit>
+<usecharset>yes</usecharset>
+<bulksize>1000</bulksize>
+<appendtofile>no</appendtofile>
+</options>
+<abortonerror>(null)</abortonerror>
+<sendreport send="no" /></exportjob>
+</job>
